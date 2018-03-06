@@ -8,5 +8,5 @@ class GitTest
   end
 end
 
-gittest = GitTest.new('harurun')
+gittest = GitTest.new('harurun_clone')
 gittest.hello
