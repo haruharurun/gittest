@@ -4,7 +4,8 @@ class GitTest
   end
 
   def hello
-    puts "hello world #{@name}."
+    #puts "hello world #{@name}."
+    puts "hello #{@name}."
   end
 end
 
